@@ -5,6 +5,30 @@ KTOR, Voyager, Kamel, KMMViewmodel, Coroutines
 TODO: WASM (stuck on library dependencies)
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
 
+## Screenshots
+<table>
+  <tr>Android</tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/pa1pal/DogsAppCMP/main/screenshots/android.png"></td>
+    <td><img src="https://raw.githubusercontent.com/pa1pal/DogsAppCMP/main/screenshots/android2.png"></td>
+  </tr>
+  </table>
+  <table>
+  <tr>iOS</tr>
+  <tr>
+     <td><img src="https://raw.githubusercontent.com/pa1pal/DogsAppCMP/main/screenshots/ios.png"></td>
+     <td><img src="https://raw.githubusercontent.com/pa1pal/DogsAppCMP/main/screenshots/ios2.png"></td>
+  </tr>
+  </table>
+  <table>
+  <tr>Desktop</tr>
+  <tr>
+      <td><img src="https://raw.githubusercontent.com/pa1pal/DogsAppCMP/main/screenshots/desktop1.png"></td>
+      <td><img src="https://raw.githubusercontent.com/pa1pal/DogsAppCMP/main/screenshots/desktop2.png"></td>
+    </tr>
+</table>
+
+
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
   - `commonMain` is for code that’s common for all targets.
